@@ -17,5 +17,5 @@ var primeFactors = function(value) {
     }
     div += 1;
   }
-  console.log(largpfactor);
+  return largpfactor;
 };
